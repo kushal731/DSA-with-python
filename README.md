@@ -58,6 +58,14 @@ python stack_data_structure.py
 
 ## Notes
 
+## 📚 Additional DSA Notes
+
+Want to access Data Structures and Algorithms (DSA) notes?
+
+Check out my other repository:
+
+👉 **[Data Structures with Python – DSA Notes](https://github.com/kushal731/Data-structure-with-python-notes)**
+
 - All programs include exact code from the course PDFs
 - Each program includes an asymptotic notation graph using matplotlib
 - Programs are organized by week according to the course syllabus
